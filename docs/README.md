@@ -17,12 +17,14 @@ permalink: /docs/
 ## Project-Jeeok - [repository](https://github.com/heechul90/project-jeeok)
 * [Member]{:.heading.flip-title} --- member-server api rest docs.
 * [Jeeoklog]{:.heading.flip-title} --- jeeoklog-server api rest docs.
+* [Jeeokshop]{:.heading.flip-title} --- jeeokshop api rest docs.
 {:.related-posts.faded}
 
 ## Other
 
 [member]: member.md
 [jeeoklog]: jeeoklog.md
+[jeeokshop]: jeeokshop.md
 
 [upgrade]: upgrade.md
 [config]: config.md
