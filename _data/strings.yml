@@ -10,35 +10,35 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
-social:                Social
-links:                 Links
-links_icon:            'icon-link'
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-forward:               Forward
-back:                  Back
-permalink:             Permalink
-permalink_icon:        'content-hash'
-templates:             Templates (for web app)
-present:               present
-toc:                   Table of Contents
-note:                  Note
-description:           Description
-search:                Search
-search_placeholder:    Type something…
+home: Home
+pages: Pages
+posts: Posts
+about: About
+related_posts: Related Posts
+other_projects: Other Projects
+comments: Comments
+jump_to: Jump to
+navigation: Navigation
+social: Social
+links: Links
+links_icon: 'icon-link'
+pagination: Pagination
+newer: Newer
+older: Older
+forward: Forward
+back: Back
+permalink: Permalink
+permalink_icon: 'content-hash'
+templates: Templates (for web app)
+present: present
+toc: Table of Contents
+note: Note
+description: Description
+search: Search
+search_placeholder: Type something…
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading: Loading…
+redirecting: Redirecting…
 
 continue_reading:      >
   Continue reading <!--post_title-->
@@ -49,14 +49,14 @@ cookies_banner:
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title: '404: Page Not Found'
   message:             |
     Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
     <!--home_link--> to try finding it again.
   home_link:           Head back home
 
 offline:
-  title:               'You are Offline'
+  title: 'You are Offline'
   message:             |
     Sorry, but you appear to be offline and this page has not been prepared for offline viewing.
     <!--home_link--> to try finding another page.
